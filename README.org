@@ -1,6 +1,10 @@
 * My Overland Track 2023/24 planning
 
-- Lighterpack link: https://lighterpack.com/r/a3mfv1
-- Day to day plan: [[file:hike-plan.org]]
-- Food plan: [[file:food.org]]
-- Tasmania Parks information site: https://parks.tas.gov.au/explore-our-parks/cradle-mountain/overland-track
+- My links:
+  - Lighterpack link: [[https://lighterpack.com/r/a3mfv1][Overland Track 2023-24]]
+  - Day to day plan: [[file:hike-plan.org]]
+  - Food plan: [[file:food.org]]
+- Background data:
+  - Video: [[https://www.youtube.com/watch?v=hQ7VZ3DwGhU][Overland track in 60 seconds - YouTube]]
+  - Official website: [[https://parks.tas.gov.au/explore-our-parks/cradle-mountain/overland-track][Overland Track - Tasmania Parks]]
+  - Past travelers: [[https://www.aussiebushwalking.com/tas/cradle-mountain-lake-st-clair-np/overland-track][Overland Track - Aussie Bushwalking]]
