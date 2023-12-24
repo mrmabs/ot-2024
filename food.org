@@ -1,0 +1,99 @@
+#+TITLE: Overland Track 2023/24 (rough) food plan
+
+~*Note:* trip intent for no cooking~
+
+* Detailed plan
+| food                          | day   | meal           |   kJ | weight | kJ / g |
+|-------------------------------+-------+----------------+------+--------+--------|
+| smoothie                      | fri   | breakfast      | 1730 |     85 |  20.35 |
+| mcvites apple                 | fri   | breakfast      |  704 |   43.5 |  16.18 |
+| mountain bread                | fri   | lunch          |  290 |     25 |   11.6 |
+| super crunch peanut butter x3 | fri   | lunch / dinner | 1710 |     66 |  25.91 |
+| cherry ripe minis x2          | fri   | snack          |  499 |     25 |  19.96 |
+| salami                        | fri   | dinner / lunch |  482 |     46 |  10.48 |
+| mountain bread                | fri   | dinner         |  290 |     25 |   11.6 |
+| cheese stick x2               | fri   | dinner / lunch |  542 |     40 |  13.55 |
+| carrots                       | fri   | dinner / lunch |   73 |     50 |   1.46 |
+| mountain bread                | thu   | dinner         |  290 |     25 |   11.6 |
+| carrots                       | thu   | dinner / lunch |   73 |     50 |   1.46 |
+| cheese stick x2               | thu   | dinner / lunch |  542 |     40 |  13.55 |
+| cherry ripe minis x2          | fri   | snack          |  499 |     25 |  19.96 |
+| super crunch peanut butter x3 | thu   | lunch / dinner | 1710 |     66 |  25.91 |
+| cliff bar                     | sat   | breakfast      | 1100 |     68 |  16.18 |
+| mcvites apple                 | sat   | breakfast      |  704 |   43.5 |  16.18 |
+| mountain bread                | sat   | lunch          |  290 |     25 |   11.6 |
+| mountain bread                | sat   | dinner         |  290 |     25 |   11.6 |
+| salami                        | sat   | dinner / lunch |  482 |     46 |  10.48 |
+| cheese stick x2               | sat   | dinner / lunch |  542 |     40 |  13.55 |
+| carrots                       | sat   | dinner / lunch |   73 |     50 |   1.46 |
+| super crunch peanut butter x3 | sat   | lunch / dinner | 1710 |     66 |  25.91 |
+| cherry ripe minis x2          | sat   | snack          |  499 |     25 |  19.96 |
+| vanilla protein powder drink  | sat   | snack          |  516 |     35 |  14.74 |
+| smoothie                      | sun   | breakfast      | 1730 |     85 |  20.35 |
+| mcvites apple                 | sun   | breakfast      |  704 |   43.5 |  16.18 |
+| mountain bread                | Sun   | lunch          |  290 |     25 |   11.6 |
+| super crunch peanut butter x3 | Sun   | lunch / dinner | 1710 |     66 |  25.91 |
+| cherry ripe minis x2          | Sun   | snack          |  499 |     25 |  19.96 |
+| salami                        | Sun   | dinner / lunch |  482 |     46 |  10.48 |
+| mountain bread                | Sun   | dinner         |  290 |     25 |   11.6 |
+| cheese stick x2               | Sun   | dinner / lunch |  542 |     40 |  13.55 |
+| carrots                       | Sun   | dinner / lunch |   73 |     50 |   1.46 |
+| cliff bar                     | mon   | breakfast      | 1100 |     68 |  16.18 |
+| mcvites apple                 | mon   | breakfast      |  704 |   43.5 |  16.18 |
+| mountain bread                | Mon   | lunch          |  290 |     25 |   11.6 |
+| mountain bread                | Mon   | dinner         |  290 |     25 |   11.6 |
+| salami                        | Mon   | dinner / lunch |  482 |     46 |  10.48 |
+| cheese stick x2               | Mon   | dinner / lunch |  542 |     40 |  13.55 |
+| carrots                       | thu   | dinner / lunch |   73 |     50 |   1.46 |
+| super crunch peanut butter x3 | Mon   | lunch / dinner | 1710 |     66 |  25.91 |
+| cherry ripe minis x2          | Mon   | snack          |  499 |     25 |  19.96 |
+| vanilla protein powder drink  | Mon   | snack          |  516 |     35 |  14.74 |
+| smoothie                      | tue   | breakfast      | 1730 |     85 |  20.35 |
+| mcvites apple                 | tue   | breakfast      |  704 |   43.5 |  16.18 |
+| mountain bread                | Tue   | lunch          |  290 |     25 |   11.6 |
+| super crunch peanut butter x3 | Tue   | lunch / dinner | 1710 |     66 |  25.91 |
+| cherry ripe minis x2          | Tue   | snack          |  499 |     25 |  19.96 |
+| salami                        | Tue   | dinner / lunch |  482 |     46 |  10.48 |
+| mountain bread                | Tue   | dinner         |  290 |     25 |   11.6 |
+| cheese stick x2               | Tue   | dinner / lunch |  542 |     40 |  13.55 |
+| carrots                       | Tue   | dinner / lunch |   73 |     50 |   1.46 |
+| cliff bar                     | wed   | breakfast      | 1100 |     68 |  16.18 |
+| mcvites apple                 | wed   | breakfast      |  704 |   43.5 |  16.18 |
+| trail mix                     | snack | snack          | 7182 |    360 |  19.95 |
+| gf fried noodles              | snack | snack          | 4192 |    200 |  20.96 |
+| dried fruit                   | snack | snack          | 6000 |    300 |     20 |
+
+* Daily summary
+| day             |    kJ | weight | carry |
+|-----------------+-------+--------+-------|
+| thu             |  2688 |    231 |  2941 |
+| fri             |  6819 |  430.5 |  2617 |
+| sat             |  6206 |  423.5 |  2093 |
+| sun             |  6320 |  405.5 |  1576 |
+| mon             |  6133 |  373.5 |  1077 |
+| tue             |  6320 |  405.5 |   610 |
+| wed             |  1804 |  111.5 |   112 |
+|                 |       |        |       |
+| snack           | 17374 |    860 |       |
+| avg daily snack |  2895 |    143 |       |
+|                 |       |        |       |
+| total           | 53664 |   3241 |       |
+
+* Shopping list
+|                               |    kJ | weight | serves |
+|-------------------------------+-------+--------+--------|
+| carrots                       |   438 |    300 |      6 |
+| mountain bread                |  3190 |    275 |     11 |
+| cherry ripe minis x2          |  2994 |    150 |      6 |
+| salami                        |  2410 |    230 |      5 |
+| cliff bar                     |  3300 |    204 |      3 |
+| smoothie                      |  5190 |    255 |      3 |
+| mcvites apple                 |  4224 |    261 |      6 |
+| super crunch peanut butter x3 | 10260 |    396 |      6 |
+| vanilla protein powder drink  |  1032 |     70 |      2 |
+| trail mix                     |  7182 |    360 |      1 |
+| gf fried noodles              |  4192 |    200 |      1 |
+| dried fruit                   |  6000 |    300 |      1 |
+| cheese stick x2               |  3252 |    240 |      6 |
+|                               |       |        |        |
+| total                         | 53664 |   3241 |        |
