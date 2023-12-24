@@ -2,4 +2,5 @@
 
 - Lighterpack link: https://lighterpack.com/r/a3mfv1
 - Day to day plan: [[file:hike-plan.org]]
+- Food plan: [[file:food.org]]
 - Tasmania Parks information site: https://parks.tas.gov.au/explore-our-parks/cradle-mountain/overland-track
