@@ -1,5 +1,5 @@
 * My Overland Track 2023/24 planning
 
-Lighterpack link: https://lighterpack.com/r/a3mfv1
-
-Tasmania Parks information site: https://parks.tas.gov.au/explore-our-parks/cradle-mountain/overland-track
+- Lighterpack link: https://lighterpack.com/r/a3mfv1
+- Day to day plan: [[file:ot-2024.org]]
+- Tasmania Parks information site: https://parks.tas.gov.au/explore-our-parks/cradle-mountain/overland-track
