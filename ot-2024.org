@@ -1,0 +1,44 @@
+
+* [2023-12-27 Wed]
+** flight bne-mel
+<2023-12-27 Wed 08:55-12:15>
+** flight mel-lst
+<2023-12-27 Wed 14:25-15:30>
+** stay at launceston
+<2023-12-27 Wed>
+* [2023-12-28 Thu] 
+weather: 07-13 2mm cloudy
+** bus to cradle valley
+<2023-12-28 Thu 06:15-09:30>
+** start Overland Track
+<2023-12-28 Thu>
+** waterfall valley
+* [2023-12-29 Fri]  
+weather: 05-11 <1mm cloudy
+** lake will
+side trip
+** lake windermere
+* [2023-12-30 Sat] 
+weather: 06-13 2mm cloudy
+** pelion west
+side trip
+** pelion
+* [2023-12-31 Sun] 
+weather 06-22 0mm sunny+cloud
+** rest day
+* [2024-01-01 Mon] 
+weather: 12-20 0mm cloudy
+** pelion east
+side trip
+** kia ora
+* [2024-01-02 Tue] 
+weather: 12-22 4mm cloud+sun
+** windy ridge or nacissus
+* [2024-01-03 Wed]
+weather: 11-21 8mm storm
+** narcissus or walk around lake st clair
+** ferry to cynthia bay
+<2024-01-03 Wed 13:00>
+if not walking around lake st clair
+** finish overland track
+eat big meal at pub
