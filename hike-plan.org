@@ -15,31 +15,32 @@
 - stay at launceston
   SCHEDULED: <2023-12-27 Wed>
 * [2023-12-28 Thu] 
-- *weather:* 07-13 2mm cloudy
+- *weather:* 07-14 1mm cloudy
 - bus to cradle valley
 - start Overland Track
 - waterfall valley ~10.7 km, 4-6 hours~
 * [2023-12-29 Fri]  
-- *weather:* 05-11 <1mm cloudy
+- *weather:* 05-12 2mm partly cloudy
 - *side trip:* lake will ~3 km, 1 hour return~
 - lake windermere ~​​7.8 km, 2.5-3.5 hours~
 * [2023-12-30 Sat] 
-- *weather:* 06-13 2mm cloudy
+- *weather:* 06-12 3mm cloudy
 - *side trip:* pelion west
 - pelion ~​​​16.8 km, 5-7 hours~
 * [2023-12-31 Sun] 
-- *weather:* 06-22 0mm sunny+cloud
+- *weather:* 04-19 0mm sunny
 - rest day
 * [2024-01-01 Mon] 
-- *weather:* 12-20 0mm cloudy
+- *weather:* 09-20 0mm cloudy
 - *side trip:* pelion east ~2.4 km, 2 hours~
 - kia ora ~​8.6 km, 3-4 hours~
 * [2024-01-02 Tue] 
-- *weather:* 12-22 4mm cloud+sun
+- *weather:* 10-19 4mm cloudy
 - windy ridge ~​​​9.6 km, 3.5-4.5 hours~ or nacissus ~19.6 km, 6.5-8.5 hours~
 * [2024-01-03 Wed]
-- *weather:* 11-21 8mm storm
+- *weather:* 11-19 7mm storm
 - narcissus ~​​9 km, 3-4 hours~ or walk around lake st clair ~​​​​17.5 ​km, 5-6 hours~
   - if not walking around lake st clair: ferry to cynthia bay
+  - rain expected, so likely ferry
 - finish overland track
 - eat big meal at pub
